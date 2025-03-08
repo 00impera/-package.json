@@ -4,4 +4,11 @@
   "description": "Para",
   "main": "metadataNft.ts",
   "scripts": {
-    "start": "ts-node metadataN
+    "start": "ts-node metadataNft.ts"
+  },
+  "dependencies": {
+    "@ton/ton-client-js": "latest",
+    "typescript": "latest",
+    "ts-node": "latest"
+  }
+}
