@@ -1,0 +1,7 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Para",
+  "main": "metadataNft.ts",
+  "scripts": {
+    "start": "ts-node metadataN
